@@ -1,0 +1,1 @@
+<testsuite errors="0" failures="0" name="Django Project Tests" skips="0" tests="2" time="0.111"><testcase classname="jenkin_app.tests.StartAppTests" name="test_start_app__correct_response" time="0.108673" /><testcase classname="jenkin_app.tests.StartAppTests" name="test_start_app_wrong_response" time="0.001925" /></testsuite>
