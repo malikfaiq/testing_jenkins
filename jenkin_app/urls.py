@@ -15,9 +15,9 @@ Including another URLconf
 """
 from django.conf.urls import url
 
-from jenkin_app.views import start_app
+from jenkin_app.views import start_app, end_app
 
 urlpatterns = [
     url('start_app/', start_app, name="start_app"),
-    url('end_app/', start_app, name="end_app")
+    url('end_app/', end_app, name="end_app")
 ]
