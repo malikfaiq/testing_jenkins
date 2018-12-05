@@ -18,5 +18,6 @@ from django.conf.urls import url
 from jenkin_app.views import start_app
 
 urlpatterns = [
-    url('start_app/', start_app, name="start_app")
+    url('start_app/', start_app, name="start_app"),
+    url('end_app/', start_app, name="end_app")
 ]
