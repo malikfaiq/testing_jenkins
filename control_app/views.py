@@ -4,4 +4,4 @@ from django.shortcuts import render
 
 
 def hello_world(request):
-    print('erererererererere')
+    print('ererererererererejgjgjgjgjhg')
